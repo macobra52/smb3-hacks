@@ -6,14 +6,14 @@ Special thanks to Southbird for his amazing work on the disassembly of SMB3. A l
 
 
 Usage
+-----
 
 The patches here will all be in IPS format. These can be applied to an existing rom through the use of a patching utility, such as Lunar IPS. The patch cannot be removed once appliced so be sure to backup your original rom first.
 
 Steps for Lunar IPS:
 
-    Download and run Lunar IPS
-    Ensure your target rom has been extracted from zip
-    Select 'Apply patch'
-    Follow the title screen in popups - select the ips file, then select target rom
-    You should see a 'File sucessfully patched' prompt. At this point you are good to go. Be sure to rename the rom appropriately
-
+* Download and run Lunar IPS
+* Ensure your target rom has been extracted from zip
+* Select 'Apply patch'
+* Follow the title screen in popups - select the ips file, then select target rom
+* You should see a 'File sucessfully patched' prompt. At this point you are good to go. Be sure to rename the rom appropriately
