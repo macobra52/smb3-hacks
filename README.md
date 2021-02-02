@@ -12,7 +12,7 @@ The patches here will all be in IPS format. These can be applied to an existing 
 
 Steps for Lunar IPS:
 
-* Download and run Lunar IPS
+* [Download <link>](https://www.romhacking.net/utilities/240/) and run Lunar IPS
 * Ensure your target rom has been extracted from zip
 * Select 'Apply patch'
 * Follow the title screen in popups - select the ips file, then select target rom
