@@ -138,7 +138,7 @@ Reduces the time it takes Donut Blocks to fall when Mario stands on them by 75%.
 Less Time Faster Tick
 ----------
 
-Doubles the tick rate of the in-level timer and decreases all level starting times by 100 seconds. The only excepting is 7-F1 which is adjusted to retain its 200 second starting time (otherwise it is impossible to complete when entering as small Mario).
+Doubles the tick rate of the in-level timer and decreases all level starting times by 100 seconds. The only exception is 7-F1 which is adjusted to retain its 200 second starting time (otherwise it is impossible to complete when entering as small Mario).
 
 
 Japanese Damage System
