@@ -188,7 +188,7 @@ Halves the duration of the P-Switch timer. To double it instead, simply modify t
 42 Coin 1UPs
 ----------
 
-Makes it so that you only need to collect 42 coins for a 1UP. Can be easily modified with any custom amount, but glitchiness will occur with values over 100 ($64).
+Makes it so that you only need to collect 42 coins for a 1UP. Can be easily modified with any custom amount, but glitchyness will occur with values over 100 ($64).
 
 
 0 Lives
