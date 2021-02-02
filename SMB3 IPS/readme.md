@@ -110,7 +110,7 @@ Increases the speed of Bullet Bills (normal and homing) by 1.5x.
 More Random Podoboos
 ----------
 
-Increases the variance in which Podoboos jump out of the lava so that can jump sooner than expected.
+Increases the variance in which Podoboos jump out of the lava so that they can jump sooner than expected.
 
 
 SMB2J Piranha Plants (All)
