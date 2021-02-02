@@ -54,9 +54,9 @@ All Four Bros
 -----------
 
 Includes the change above to regular Hammer Bros and does the following to the other three:
--Boomerang Bros move back and forth faster, throw their boomerangs farther and have a different throwing pattern
--Sledge Bros move back and forth faster and throw two hammers at a time
--Fire Bros move back and forth faster
+* Boomerang Bros move back and forth faster, throw their boomerangs farther and have a different throwing pattern
+* Sledge Bros move back and forth faster and throw two hammers at a time
+* Fire Bros move back and forth faster
 
 
 Smarter Lakitu
