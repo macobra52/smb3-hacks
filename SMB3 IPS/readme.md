@@ -116,7 +116,7 @@ Increases the variance in which Podoboos jump out of the lava so that they can j
 SMB2J Piranha Plants (All)
 ----------
 
-Modifys all Piranha Plants (normal and giant) so that they will emerge even if Mario is standing next to their pipe, similar to Red Piranhas in SMB2J/Lost Levels. Note that since the center of the giant Piranha is not exactly center so he can still emerge if Mario is standing on the right side of the pipe.
+Modifys all Piranha Plants (normal and giant) so that they will emerge even if Mario is standing next to their pipe, similar to Red Piranhas in SMB2J/Lost Levels. Note that the center of the giant Piranha is not exactly center so he can still emerge if Mario is standing on the right side of the pipe.
 
 
 Piranha Plants Always Emerge (All)
