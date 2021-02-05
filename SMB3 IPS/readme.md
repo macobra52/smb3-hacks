@@ -125,6 +125,12 @@ Piranha Plants Always Emerge (All)
 Modifys all Piranha Plants (normal and giant) so that they will always emerge regardless of where Mario is standing. The only exception is when standing exactly in the middle to prevent damage when coming out of an occupied pipe.
 
 
+Shoe on Stomp 2
+----------
+
+A version of RussianManSMWC's Shoe on Stomp that does not modify the code beyond simple value swaps, making it compatible with other modifications here. The player-kuribo interaction works slightly different but the general result is the same.
+
+
 Other Difficulty
 ==================
 
@@ -145,6 +151,12 @@ Japanese Damage System
 ----------
 
 Makes it so Mario always reverts to small upon taking a hit, regardless of his current power-up status.
+
+
+Hardcore Mode
+----------
+
+Similar in concept to Hardcore Mode in other games. Sets starting lives to 0, patches out all methods of gaining lives, and on the game over screen replaces 'Continue' with 'Concede' which does the same thing as 'End'.
 
 
 Fixes
