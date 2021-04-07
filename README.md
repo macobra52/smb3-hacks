@@ -16,4 +16,4 @@ Steps for Lunar IPS:
 * Ensure your target rom has been extracted from zip
 * Select 'Apply patch'
 * Follow the title screen in popups - select the ips file, then select target rom
-* You should see a 'File sucessfully patched' prompt. At this point you are good to go. Be sure to rename the rom appropriately
+* You should see a 'File successfully patched' prompt. At this point you are good to go. Be sure to rename the rom appropriately
