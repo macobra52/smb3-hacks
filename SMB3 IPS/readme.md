@@ -225,3 +225,9 @@ No Consecutive Stomps
 ----------
 
 Removes the ability for Mario to accumulate points/lives when stomping on enemies without touching the ground. All stomps will award 100 points.
+
+
+No More Bros
+----------
+
+Simple patch that removes all Hammer Bros from the world maps.
