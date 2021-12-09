@@ -134,7 +134,7 @@ A version of RussianManSMWC's Shoe on Stomp that does not modify the code beyond
 Koopaling Softlock Fix + Hammers Can Hit Koopalings
 ----------
 
-Includes both the Koopaling Softlock Fix (see description below) and modifies them so that they can be hit by hammers thrown by Hammer Mario.
+Includes both the Koopaling Softlock Fix (see description below) and modifies Koopalings so that they can be hit by hammers thrown by Hammer Mario.
 
 
 Other Difficulty
