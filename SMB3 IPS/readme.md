@@ -131,6 +131,12 @@ Shoe on Stomp 2
 A version of RussianManSMWC's Shoe on Stomp that does not modify the code beyond simple value swaps, making it compatible with other modifications here. The player-kuribo interaction works slightly different but the general result is the same.
 
 
+Koopaling Softlock Fix + Hammers Can Hit Koopalings
+----------
+
+Includes both the Koopaling Softlock Fix (see description below) and modifies them so that they can be hit by hammers thrown by Hammer Mario.
+
+
 Other Difficulty
 ==================
 
@@ -179,6 +185,12 @@ Clipping Patched
 ----------
 
 Modifies the game so that Mario slides left when clipping conditions are met instead of right, preventing popular skips such as 7-1 and the 1UP clip in Bowser's Castle. My approach to patching out clipping that does not need any additional space and is therefore compatible with randomizer and other patches that do not modify this space in the rom.
+
+
+Koopaling Softlock Fix
+-------
+
+While very rare, Koopalings can be defeated through non-standard means in the normal game, causing them to simply fall off the screen and softlock the game (since the wand never drops and the timer does not decrement). This simple patch resolves this by modifying their KillAction to match Bowser's so if this softlock condition occurs, they will still fly up and drop the wand like normal.
 
 
 Misc.
@@ -231,3 +243,9 @@ No More Bros
 ----------
 
 Simple patch that removes all Hammer Bros from the world maps.
+
+
+Infinite use Mushroom Houses
+----------
+
+When a mushroom house is cleared, this patch will make the player simply exit out instead of the 'poof' effect happening on the world map, allowing them to re-enter and obtain as many items as they want.
