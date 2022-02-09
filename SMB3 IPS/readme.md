@@ -128,7 +128,7 @@ Modifys all Piranha Plants (normal and giant) so that they will always emerge re
 Shoe on Stomp 2
 ----------
 
-A version of RussianManSMWC's Shoe on Stomp that does not modify the code beyond simple value swaps, making it compatible with other modifications here. The player-kuribo interaction works slightly different but the general result is the same.
+A version of RussianManSMWC's Shoe on Stomp that does not modify the code beyond simple value swaps, making it compatible with other modifications here. The player-kuribo interaction works slightly different (you stomp the goomba inside of the shoe rather than bounce off him) but the general result is the same.
 
 
 Koopaling Softlock Fix + Hammers Can Hit Koopalings
