@@ -249,3 +249,15 @@ Infinite use Mushroom Houses
 ----------
 
 When a mushroom house is cleared, this patch will make the player simply exit out instead of the 'poof' effect happening on the world map, allowing them to re-enter and obtain as many items as they want.
+
+
+Move Sooner in Mushroom House
+----------
+
+Shortens the delay before Mario can actually move inside a Mushroom House to collect an item. Use All-Stars for a shorter delay (~2 seconds) or Instant to allow Mario to move instantly.
+
+
+Exit Mushroom House Faster
+----------
+
+Shortens the delay between collecting an item in a Mushroom House and exiting back to the World Map.
