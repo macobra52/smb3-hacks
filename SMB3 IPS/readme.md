@@ -147,16 +147,22 @@ Quarter Donut Block Fall Time
 Reduces the time it takes Donut Blocks to fall when Mario stands on them by 75%. To adjust the time to 50% or even instant modify the value at $0a in the ISP ($10 for 50%, $00 for instant)
 
 
+Change 1up Mushroom to Poison
+----------
+
+Converts every 1up Mushroom in the game to a poison mushroom. Similar to SMB2J, they have a different appearance and will hurt Mario when touched.
+
+
 Less Time Faster Tick
 ----------
 
 Doubles the tick rate of the in-level timer and decreases all level starting times by 100 seconds. The only exception is 7-F1 which is adjusted to retain its 200 second starting time (otherwise it is impossible to complete when entering as small Mario).
 
 
-Japanese Damage System
+Japanese Damage System (fixed)
 ----------
 
-Makes it so Mario always reverts to small upon taking a hit, regardless of his current power-up status.
+Makes it so Mario always reverts to small upon taking a hit, regardless of his current power-up status. Special suits (Frog, Tanooki, Hammer) will also fly off Mario similar to the Japanese version (and the Kuribo Shoe in the US version).
 
 
 Hardcore Mode
@@ -261,3 +267,19 @@ Exit Mushroom House Faster
 ----------
 
 Shortens the delay between collecting an item in a Mushroom House and exiting back to the World Map.
+
+
+Modern Power-up System
+----------
+
+Touching a Flower or Leaf while small will transform you into that respective power-up, instead of it acting as a Mushroom (similar to future Mario games)
+
+
+Special Panels
+----------
+
+Gives the unused level panel tiles a better appearance for custom maps. Useful if you want to designate something special about the level, such as whether it contains a secret.
+
+![Screenshot 2023-08-26 093204](https://github.com/macobra52/smb3-hacks/assets/24445539/2ebfb9d8-f31d-4679-a6bc-cffcfa0a5a6b)
+
+
