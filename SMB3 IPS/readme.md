@@ -83,6 +83,24 @@ Faster Boo
 Increases the speed that Boo chases after Mario by 1.5x.
 
 
+Boos Always Chase
+----------
+
+Boo will always pursue Mario, even if he is looking at them.
+
+
+Invisible Boo
+----------
+
+Makes Boo completely invisible when not chasing Mario (their hitbox is still active, however)
+
+
+Boo hitbox chasing only
+----------
+
+Designed to be combined with Invisible Boo above if desired, to remove the hitbox when invisible
+
+
 Dry Bones Get Up Faster
 ----------
 
@@ -181,6 +199,12 @@ Bowser Hitbox Fix
 Extends Bowser's hitbox to occupy his lower half as well. This is done by redefining him to use the previously unused bound box 4 and adjusting dimensions accordingly.
 
 
+Bowser Star Softlock Fix
+-------
+
+Allows Bowser to be defeated with a star without softlocking the game. To create the simplest solution without relying on unused space, this also makes it so Bowser always flips vertically on death (even when stomping through the floor)
+
+
 Permanent Status Pause Glitch Fix
 ----------
 
@@ -269,10 +293,40 @@ Exit Mushroom House Faster
 Shortens the delay between collecting an item in a Mushroom House and exiting back to the World Map.
 
 
+Always Somersault
+----------
+
+Big Mario will always somersault while jumping (as if equipped with a Star), even if Mario has p-speed or is carrying something. Additionally, allows Mario to enter upward pipes while somersaulting.
+
+
+Unlimited Statue Time
+----------
+
+Allows Tanooki Mario to remain a statue indefinitely (as long as down is held)
+
+
+No Rig Delay on Spade Game[^1]
+-------
+
+Removes the random delay when stopping the sliding panels in the Spade Game before the panels slow and stop, making the game easier to win with proper timing.
+
+
+Fixed N Card Shuffle[^1]
+-------
+
+Due to various coding oversights, the N Card matching game only has 8 possible arrangements of cards. This implements the suggested improvements by Retro Game Mechanics Explained to improve the shuffling algorithm, resulting in a theoretical 3 million possible card arrangements.
+
+
 Modern Power-up System
 ----------
 
-Touching a Flower or Leaf while small will transform you into that respective power-up, instead of it acting as a Mushroom (similar to future Mario games)
+Touching a Flower or Leaf while small will transform you into that respective power-up, instead of it acting as a Mushroom (similar to future Mario games).
+
+
+Easy Power-up System
+----------
+
+In addition to the change above, modifies power-up block logic to always give you the next level power-up (Fire Flower or Leaf), instead of a Mushroom.
 
 
 Special Panels
@@ -283,3 +337,4 @@ Gives the unused level panel tiles a better appearance for custom maps. Useful i
 ![Screenshot 2023-08-26 093204](https://github.com/macobra52/smb3-hacks/assets/24445539/2ebfb9d8-f31d-4679-a6bc-cffcfa0a5a6b)
 
 
+[^1]: Special thanks to Retro Game Mechanics Explained for the breakdown video simplying the creation of these two patches. https://www.youtube.com/watch?v=QGeLzCmUDDk
