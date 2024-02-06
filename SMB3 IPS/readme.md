@@ -11,7 +11,7 @@ Enemies
 Faster Boss Bass
 ---------
 
-Increases the speed Boss Bass moves back and forth so he is slightly faster than Mario at p speed. There is a rare glitch that can happen however where he will go offscreen and reappear invisible.
+Increases the speed Boss Bass moves back and forth so he is slightly faster than Mario at p speed.
 
 
 Half Boss Bass Respawn Time
