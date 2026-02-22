@@ -326,7 +326,7 @@ Touching a Flower or Leaf while small will transform you into that respective po
 Easy Power-up System
 ----------
 
-In addition to the change above, modifies power-up block logic to always give you the next level power-up (Fire Flower or Leaf), instead of a Mushroom.
+In addition to the change above, modifies power-up block logic to always give you the next level power-up (Fire Flower or Leaf), instead of a Mushroom while small.
 
 
 Special Panels
@@ -338,3 +338,4 @@ Gives the unused level panel tiles a better appearance for custom maps. Useful i
 
 
 [^1]: Special thanks to Retro Game Mechanics Explained for the breakdown video simplying the creation of these two patches. https://www.youtube.com/watch?v=QGeLzCmUDDk
+
